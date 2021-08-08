@@ -1,7 +1,7 @@
 # WebScrapping_Assignment
 Scrapping Data from (Flipkart) Webiste
 
-==> Title, Raing, Reviews, Price
+==> Title, Rating, Reviews, Price
 
 1. scrap_to_csv --> Scraped the Data & storing in " CSV " File
 
