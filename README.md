@@ -1,4 +1,4 @@
-# WebScrapping_Assignment
+# WebScrapping
 Scrapping Data from (Flipkart) Webiste
 
 ==> Title, Rating, Reviews, Price
